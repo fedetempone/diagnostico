@@ -1,5 +1,5 @@
 # Diagnostico
-Test Diagnostico para Codo a Codo, en el cual se solicito copiar una imagen con estilos CSS para comprobar el nivel de los alumnos.
+Test Diagnostico Responsive Design para Codo a Codo, en el cual se solicito copiar una imagen con estilos CSS para comprobar el nivel de los alumnos.
 
 ## Lenguajes y Herramientas ##
 
