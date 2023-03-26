@@ -1,0 +1,46 @@
+.contenedor {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    background-color: rgb(214, 211, 192);
+    border-radius: 19px;
+    border-color: #504747;
+    border-style: solid;
+    font-family: cursive;
+}
+
+.imagen{
+    height: auto;
+    width: 100%;
+    border-radius: 15px;
+}
+
+
+.texto{
+    margin-top: 30px;
+    max-width: 400px;
+}
+
+.parrafo-info{
+    color: rgb(167, 118, 26);
+    font-weight: bold;
+    font-size: 17px;
+}
+
+@media  (min-width: 800px){
+    .contenedor {
+        width: 748px;
+        flex-direction: row;
+        align-items: initial;
+        margin: 0px auto;
+    }
+
+    .imagen{
+        height: 322px;
+        width: 325px;
+        margin-right: 25px;
+        border-radius: 14px 0px 0px 14px;
+    }
+}
